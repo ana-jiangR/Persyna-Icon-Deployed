@@ -1,0 +1,25 @@
+{
+  "title": {
+    "first": "Dolor exercitation",
+    "second": "Veniam tempor Lorem."
+  },
+  "image1": "/assets/img/ab2.jpg", 
+  "image2": "/assets/img/ab2.jpg",
+  "content": "Reprehenderit fugiat ut id in non in est culpa officia ipsum culpa proident.Id est consequat anim culpa culpa exercitation exercitation adipisicing adipisicing aute.",
+
+  "exp": "120+",
+  "textList": [
+    {
+      "id": 1,
+      "name": "Typology"
+    },
+    {
+      "id": 2,
+      "name": "MBTI"
+    },
+    {
+      "id": 3,
+      "name": "Enneagram"
+    }
+  ]
+}

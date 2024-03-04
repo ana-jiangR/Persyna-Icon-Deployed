@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "slug": "why-personality-tests-are-not-reliable-lacanian-psychoanalysis-perspective",
+    "image": "/assets/img/posts/Feb16/lacan_img.jpg",
+    "title": "为什么人格测试不靠谱——拉康精神分析视角",
+    "by": "Yolanda Yin",
+    "date": "Feb 16 2024",
+    "date2": ["Feb 2024", "16"],
+    "tag": ["人格测试", "拉康", "精神分析"],
+    "abstract": "判定个体的人格类型时，做人格测试常常被认为是一种便捷的方式。然而，从拉康（Jacques Lacan）精神分析的角度来看，这种方法存在一定的局限性，并很有可能对真正的人格进行误判。"
+  },
+  {
+    "id": 2,
+    "slug": "psn-online-personality-salon-an-introduction-to-the-enneagram",
+    "image": "/assets/img/posts/Feb152024/fengmian.jpg",
+    "title": "PSN Online Personality Salon｜九型人格入门",
+    "by": "Yolanda Yin",
+    "date": "Feb 15 2024",
+    "date2": ["Feb 2024", "15"],
+    "tag": ["a", "e", "q"],
+    "abstract": "Persyna Icon人格图鉴社于2月8日（周四）20:00至21:30成功举办了社团第二场线上沙龙活动，带领自我探索者们踏上了九型人格入门（主要为里索体系）之旅。"
+  },
+  {
+    "id": 3,
+    "slug": "what-its-like-to-be-an-interior-designer",
+    "image": "/assets/img/blog/3.jpg",
+    "title": "What it's like to be an interior designer?",
+    "by": "ALEX SMITH",
+    "date": "Aug 06 2022",
+    "date2": ["Aug 2022", "06"],
+    "tag": ["f", "x", "h"],
+    "abstract": "Consequat nulla exercitation nisi sunt reprehenderit ea mollit. Exercitation minim dolor id laborum ullamco esse. Magna quis consequat ex commodo cupidatat eiusmod mollit est ad labore exercitation. Proident commodo reprehenderit tempor veniam ipsum in incididunt deserunt elit ex laboris. Nisi id nulla exercitation enim sint tempor nisi duis excepteur ullamco veniam."
+  },
+  {
+    "id": 4,
+    "slug": "what-its-interior-designer",
+    "image": "/assets/img/blog/3.jpg",
+    "title": "What it's interior designer?",
+    "by": "ALEX SMITH",
+    "date": "Aug 06 2022",
+    "date2": ["Aug 2022", "06"],
+    "tag": ["f", "x", "h"],
+    "abstract": "Consequat nulla exercitation nisi sunt reprehenderit ea mollit. Exercitation minim dolor id laborum ullamco esse. Magna quis consequat ex commodo cupidatat eiusmod mollit est ad labore exercitation. Proident commodo reprehenderit tempor veniam ipsum in incididunt deserunt elit ex laboris. Nisi id nulla exercitation enim sint tempor nisi duis excepteur ullamco veniam."
+  },
+  {
+    "id": 5,
+    "slug": "exercitation-nisi-sunt-reprehenderit",
+    "image": "/assets/img/blog/3.jpg",
+    "title": "Exercitation Nisi Sunt Reprehenderit",
+    "by": "ALEX SMITH",
+    "date": "Aug 06 2022",
+    "date2": ["Aug 2022", "06"],
+    "tag": ["f", "x", "h"],
+    "abstract": "Consequat nulla exercitation nisi sunt reprehenderit ea mollit. Exercitation minim dolor id laborum ullamco esse. Magna quis consequat ex commodo cupidatat eiusmod mollit est ad labore exercitation. Proident commodo reprehenderit tempor veniam ipsum in incididunt deserunt elit ex laboris. Nisi id nulla exercitation enim sint tempor nisi duis excepteur ullamco veniam."
+  },
+  {
+    "id": 6,
+    "slug": "who-will-be",
+    "image": "/assets/img/blog/3.jpg",
+    "title": "Who Will Be?",
+    "by": "ALEX SMITH",
+    "date": "Aug 06 2022",
+    "date2": ["Aug 2022", "06"],
+    "tag": ["f", "x", "h"],
+    "abstract": "Consequat nulla exercitation nisi sunt reprehenderit ea mollit. Exercitation minim dolor id laborum ullamco esse. Magna quis consequat ex commodo cupidatat eiusmod mollit est ad labore exercitation. Proident commodo reprehenderit tempor veniam ipsum in incididunt deserunt elit ex laboris. Nisi id nulla exercitation enim sint tempor nisi duis excepteur ullamco veniam."
+  },
+  {
+    "id": 7,
+    "slug": "interior-designer",
+    "image": "/assets/img/blog/3.jpg",
+    "title": "Interior designer?",
+    "by": "ALEX SMITH",
+    "date": "Aug 06 2022",
+    "date2": ["Aug 2022", "06"],
+    "tag": ["f", "x", "h"],
+    "abstract": "Consequat nulla exercitation nisi sunt reprehenderit ea mollit. Exercitation minim dolor id laborum ullamco esse. Magna quis consequat ex commodo cupidatat eiusmod mollit est ad labore exercitation. Proident commodo reprehenderit tempor veniam ipsum in incididunt deserunt elit ex laboris. Nisi id nulla exercitation enim sint tempor nisi duis excepteur ullamco veniam."
+  }
+]
